@@ -1,1 +1,1 @@
-web: python3 -m http.server 6464
+web: python3 -m http.server $PORT
